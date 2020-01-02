@@ -1,0 +1,9 @@
+Package: me.kritanta.flexy
+Name: Flexy
+Depends: mobilesubstrate
+Version: 2.0
+Architecture: iphoneos-arm
+Description: OLED black, ios 11-13, flex lib that works on any phone with several conviniences
+Maintainer: Kritanta
+Author: Kritanta
+Section: Development
